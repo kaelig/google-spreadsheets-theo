@@ -18,6 +18,8 @@ Paste this table in a new Google spreadsheet, and populate it with the project o
 | color-secondary | #ff00ff | color | background-color |                                           |
 | color-tertiary  | green   | color | background-color |                                           |
 
+It should look something like this [example Google Spreadsheet](https://docs.google.com/spreadsheets/d/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/edit#gid=0).
+
 ### 2. Publish the spreadsheet to the web
 
 `google-spreadsheets-theo` is only able to access the contents of the spreadsheet if it’s publicly published to the web.
