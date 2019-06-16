@@ -1,6 +1,6 @@
 {
   "name": "google-spreadsheets-theo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Import design tokens from a Google Spreadsheets in a format digestable by Theo",
   "main": "index.js",
   "repository": "https://github.com/kaelig/google-spreadsheets-theo",
