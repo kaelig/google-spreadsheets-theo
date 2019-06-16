@@ -159,10 +159,6 @@ $ node ./build-tokens.js
 ✔ Design tokens written to ./tokens/colors.common.js
 ✔ Design tokens written to ./tokens/colors.android.xml
 ✔ Design tokens written to ./tokens/colors.ios.json
-✔ Design tokens written to ./tokens/spacing.scss
-✔ Design tokens written to ./tokens/spacing.common.js
-✔ Design tokens written to ./tokens/spacing.android.xml
-✔ Design tokens written to ./tokens/spacing.ios.json
 ✨  Done in 2.29s.
 ```
 
