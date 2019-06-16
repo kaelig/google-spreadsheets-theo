@@ -1,0 +1,206 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values"
+    },
+    "updated": {
+      "$t": "2019-06-16T00:48:31.502Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "colors"
+    },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/a/deloumeau.fr/spreadsheets/d/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "kaelig"
+        },
+        "email": {
+          "$t": "kaelig@deloumeau.fr"
+        }
+      }
+    ],
+    "openSearch$totalResults": {
+      "$t": "3"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cokwr"
+        },
+        "updated": {
+          "$t": "2019-06-16T00:48:31.502Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "color-primary"
+        },
+        "content": {
+          "type": "text",
+          "$t": "value: red, type: color, category: background-color, comment: Primary color for use on all main actions"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cokwr"
+          }
+        ],
+        "gsx$name": {
+          "$t": "color-primary"
+        },
+        "gsx$value": {
+          "$t": "red"
+        },
+        "gsx$preview": {
+          "$t": ""
+        },
+        "gsx$type": {
+          "$t": "color"
+        },
+        "gsx$category": {
+          "$t": "background-color"
+        },
+        "gsx$comment": {
+          "$t": "Primary color for use on all main actions"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cpzh4"
+        },
+        "updated": {
+          "$t": "2019-06-16T00:48:31.502Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "color-secondary"
+        },
+        "content": {
+          "type": "text",
+          "$t": "value: #ff00ff, type: color, category: background-color"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cpzh4"
+          }
+        ],
+        "gsx$name": {
+          "$t": "color-secondary"
+        },
+        "gsx$value": {
+          "$t": "#ff00ff"
+        },
+        "gsx$preview": {
+          "$t": ""
+        },
+        "gsx$type": {
+          "$t": "color"
+        },
+        "gsx$category": {
+          "$t": "background-color"
+        },
+        "gsx$comment": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cre1l"
+        },
+        "updated": {
+          "$t": "2019-06-16T00:48:31.502Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "color-tertiary"
+        },
+        "content": {
+          "type": "text",
+          "$t": "value: green, type: color, category: background-color"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1O0QOUUq8N-NfHmlGWa61TN6oOSdQMBaDq0lp6DsCReQ/1/public/values/cre1l"
+          }
+        ],
+        "gsx$name": {
+          "$t": "color-tertiary"
+        },
+        "gsx$value": {
+          "$t": "green"
+        },
+        "gsx$preview": {
+          "$t": ""
+        },
+        "gsx$type": {
+          "$t": "color"
+        },
+        "gsx$category": {
+          "$t": "background-color"
+        },
+        "gsx$comment": {
+          "$t": ""
+        }
+      }
+    ]
+  }
+}
