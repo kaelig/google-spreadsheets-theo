@@ -8,6 +8,8 @@ This example shows how to manage color tokens using Google Spreadsheets and Theo
 
 The end result is available in the [`./example`](https://github.com/kaelig/google-spreadsheets-theo/tree/master/example) directory.
 
+A ready-to-use demo project (more detailed and published to npm), is available at <https://github.com/kaelig/google-spreadsheets-theo-demo>.
+
 ### 1. Create a Google Spreadsheet to store the design tokens
 
 Paste this table in a new Google spreadsheet, and populate it with the project or company’s design tokens:
@@ -146,3 +148,22 @@ Or, using npm:
 ```
 npm run build-tokens
 ```
+
+This should appear:
+
+```
+yarn build-tokens
+yarn run v1.12.3
+$ node ./build-tokens.js
+✔ Design tokens written to ./tokens/colors.scss
+✔ Design tokens written to ./tokens/colors.common.js
+✔ Design tokens written to ./tokens/colors.android.xml
+✔ Design tokens written to ./tokens/colors.ios.json
+✔ Design tokens written to ./tokens/spacing.scss
+✔ Design tokens written to ./tokens/spacing.common.js
+✔ Design tokens written to ./tokens/spacing.android.xml
+✔ Design tokens written to ./tokens/spacing.ios.json
+✨  Done in 2.29s.
+```
+
+Voilà! Tokens should now be available in the `./tokens` directory.
