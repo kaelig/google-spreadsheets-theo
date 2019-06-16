@@ -1,6 +1,6 @@
 {
   "name": "google-spreasheets-theo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Import Google Spreadsheets to a format digestable by Theo",
   "main": "index.js",
   "repository": "https://github.com/kaelig/google-spreadsheets-theo",
