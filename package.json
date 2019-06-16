@@ -1,5 +1,5 @@
 {
-  "name": "google-spreasheets-theo",
+  "name": "google-spreadsheets-theo",
   "version": "1.0.2",
   "description": "Import design tokens from a Google Spreadsheets in a format digestable by Theo",
   "main": "index.js",
