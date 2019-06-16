@@ -6,7 +6,7 @@ Import [design tokens](https://medium.com/eightshapes-llc/tokens-in-design-syste
 
 This example shows how to manage color tokens using Google Spreadsheets and Theo.
 
-The end result is available in the [`./example`](https://github.com/kaelig/google-spreasheets-theo/tree/master/example) directory.
+The end result is available in the [`./example`](https://github.com/kaelig/google-spreadsheets-theo/tree/master/example) directory.
 
 ### 1. Create a Google Spreadsheet to store the design tokens
 
@@ -49,7 +49,7 @@ In a file called `build-tokens.js`, paste:
 const fs = require('fs');
 const path = require('path');
 const theo = require('theo');
-const googleSpreadsheetsTheo = require('google-spreasheets-theo');
+const googleSpreadsheetsTheo = require('google-spreadsheets-theo');
 
 const config = {
   // URL of the spreadsheet
