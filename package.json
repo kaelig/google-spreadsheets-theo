@@ -1,0 +1,10 @@
+{
+  "name": "google-spreasheets-theo",
+  "version": "0.0.1",
+  "description": "Import Google Spreadsheets to a format digestable by Theo",
+  "main": "index.js",
+  "repository": "https://github.com/kaelig/google-spreadsheets-theo",
+  "author": "Kaelig Deloumeau-Prigent",
+  "license": "MIT",
+  "private": false
+}
