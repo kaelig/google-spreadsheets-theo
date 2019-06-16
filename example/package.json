@@ -4,7 +4,7 @@
     "build-tokens": "node ./build-tokens.js"
   },
   "devDependencies": {
-    "google-spreasheets-theo": "latest",
+    "google-spreadsheets-theo": "latest",
     "theo": "^8.1.3"
   }
 }

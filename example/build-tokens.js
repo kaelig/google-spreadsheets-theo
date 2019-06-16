@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const theo = require('theo');
-const googleSpreadsheetsTheo = require('google-spreasheets-theo');
+const googleSpreadsheetsTheo = require('google-spreadsheets-theo');
 
 const config = {
   // URL of the spreadsheet
